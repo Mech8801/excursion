@@ -1,12 +1,23 @@
+body {
+    display: block;
+    margin: 0 auto;
+    background-color: #000000;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    margin: 0 auto;
 }
 
-link {
+#link {
     color: aquamarine;
     font-size: 16px;
+}
+
+#video{
+    width: 500px;
 }
